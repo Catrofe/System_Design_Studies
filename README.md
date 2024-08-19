@@ -1,4 +1,5 @@
-# Architectural_Drawings
+# System Design Studies
+
 Neste repositório eu resolvo problemas propostos a mim através do System Design e do que venho aprendendo em meus estudos. A proposta desse repositorio é documentar minha evolução em temas mais complexos como System Design e conseguir resolver e solucionar problemas do dia a dia.
 
 ## Soluções propostas
